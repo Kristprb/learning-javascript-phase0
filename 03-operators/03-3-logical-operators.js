@@ -6,3 +6,8 @@ let umur = 16;
 // 2) punyaKTP || umur >= 17
 // 3) !punyaKTP
 // 4) umur >= 13 && umur <= 17
+
+console.log (punyaKTP && umur >= 17);
+console.log (punyaKTP || umur >= 17);
+console.log (!punyaKTP);
+console.log (umur >= 13 && umur <= 17);

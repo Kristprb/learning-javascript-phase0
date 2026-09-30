@@ -4,3 +4,10 @@
 --
 -- Tulis pseudocode-mu di bawah baris ini:
 
+start
+    store m with value 600
+    store a with value 2
+    store hasil with calculate m times a 
+    
+    display hasil  
+end

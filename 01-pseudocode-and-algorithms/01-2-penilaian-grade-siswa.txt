@@ -4,3 +4,21 @@
 --
 -- Tulis pseudocode-mu di bawah baris ini:
 
+start
+
+store nama with string type
+store nilai with number type
+store grade with string type
+
+
+    if nilai >= 80 and <= 100 then set grade "A"
+    Else if nilai >= 65 and <= 79 then set grade "B"
+    else if nilai >= 50 and <= 64 then set grade "C"
+    else if nilai >= 35 and <= 49 then set grade "D"
+    else if nilai >= 0 and <= 34 then set grade "E"
+    else set "Nilai Invalid"
+
+display nama and grade
+
+end
+    

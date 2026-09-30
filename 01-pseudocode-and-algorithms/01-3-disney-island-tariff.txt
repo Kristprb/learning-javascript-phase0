@@ -4,3 +4,21 @@
 --
 -- Tulis pseudocode-mu di bawah baris ini:
 
+Start
+
+store umur with number type
+store tinggi with number type
+store harga with number type
+
+    if umur > 10 then set harga 80.000
+    else if umur >= 8 and <= 10 then set 50.000 
+    and if height > 150 then harga + 20.000
+    else if umur >= 4 and <= 7 then set 40.000 
+    and if height > 120 then harga + 15.000
+    else if umur >= 2 and <= 3 then set 30.000
+    and if height > 70 then harga + 10.000
+    else "Dilarang masuk"
+
+display harga
+
+end

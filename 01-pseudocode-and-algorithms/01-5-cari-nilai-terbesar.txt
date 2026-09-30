@@ -4,3 +4,18 @@
 --
 -- Tulis pseudocode-mu di bawah baris ini:
 
+start
+
+    store a with value 7
+    store b with value 12
+    store c with value 9
+    store terbesar without any value
+   
+
+    if nilai a > b and a > c then set terbesar "a"
+    else if nilai b > a and b > c then set terbesar "b"
+    else set terbesar "c"
+
+    display "nilai terbesar : " + terbesar
+
+end

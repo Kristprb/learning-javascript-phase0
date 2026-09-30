@@ -5,3 +5,11 @@
 --
 -- Tulis pseudocode-mu di bawah baris ini:
 
+Start
+
+    store celcius with value 25
+    store fahrenheit with calculation (celcius times 9 devided by 5) plus 32
+
+    display fahrenheit
+
+end
